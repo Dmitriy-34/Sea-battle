@@ -1,2 +1,2 @@
-# Sea-battle
+# Sea_battle
 Standard game
